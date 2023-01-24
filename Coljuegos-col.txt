@@ -9958,6 +9958,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 echtgeld-casinos.com
 0.0.0.0 zirka-bet.com
 0.0.0.0 onlineukcasinos.co.uk
+0.0.0.0 mariacasino.com
 
 # End 
 
