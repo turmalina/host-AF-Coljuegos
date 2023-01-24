@@ -37,8 +37,6 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Andres Felipe
 # http://
 
-0.0.0.0 eu1.clevertap-prod.com
-0.0.0.0 wizhumpgyros.com
 0.0.0.0 bet365.com
 0.0.0.0 sunvegascasino.com
 0.0.0.0 winwardcasino.ag
@@ -78,7 +76,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 casinoenchile.com
 0.0.0.0 onlinegamblingbible.com
 0.0.0.0 onlinecasino.ca
-0.0.0.0 www.onlinecasino.ca
 0.0.0.0 winchile.com
 0.0.0.0 casinotoplists.com
 0.0.0.0 bigbonus.it
@@ -9958,7 +9955,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 echtgeld-casinos.com
 0.0.0.0 zirka-bet.com
 0.0.0.0 onlineukcasinos.co.uk
-0.0.0.0 mariacasino.com
 
 # End 
 
