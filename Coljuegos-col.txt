@@ -3,7 +3,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 23 January 2023 
+# Date: 29 Abril 2024 
 # Number of unique domains:9916
 #
 #
