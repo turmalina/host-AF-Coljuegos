@@ -4,7 +4,7 @@
 # with a dash of crowd sourcing via GitHub
 #
 # Date: 12 Mayo 2024 
-# Number of unique domains:19300 con duplicados
+# Number of unique domains:4774 sin duplicados
 #
 #
 # Project home page: https://github.com/
