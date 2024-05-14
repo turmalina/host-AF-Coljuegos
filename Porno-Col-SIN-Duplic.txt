@@ -3,7 +3,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 23 January 2023 
+# Date: 12 Mayo 2024 
 # Number of unique domains:19300 con duplicados
 #
 #
@@ -37,8 +37,6 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Andres Felipe
 # http://
 
-
-0.0.0.0 www.vaginangel.com
 0.0.0.0 bery.igopotash.site
 0.0.0.0 thisways.do.am
 0.0.0.0 forfriends.do.am
@@ -74,7 +72,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nudialist.com
 0.0.0.0 igopotash.site
 0.0.0.0 childstars.info
-0.0.0.0 www.xgirls.site
 0.0.0.0 i61.fastpic.ru
 0.0.0.0 t6.imgchili.net
 0.0.0.0 a2.xlteentube.com
@@ -102,7 +99,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 julipop.fun
 0.0.0.0 www.gaypornix.com
 0.0.0.0 www.solidfiles.com
-0.0.0.0 petitetools.date
 0.0.0.0 www.young-models.biz
 0.0.0.0 mixedvids.site
 0.0.0.0 img24.cz
@@ -118,7 +114,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.freetonpics.gdn
 0.0.0.0 www.lokoloko.site
 0.0.0.0 10them.pw
-0.0.0.0 www.laekebshev.site
 0.0.0.0 combo2.fun
 0.0.0.0 www.takonnavo.site
 0.0.0.0 all-no-nude.com
@@ -126,7 +121,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nnparadiseworld.pw
 0.0.0.0 vaginangel.com
 0.0.0.0 supernnpic.com
-0.0.0.0 nn-models.review
 0.0.0.0 nn-show-pics.com
 0.0.0.0 amourart.net
 0.0.0.0 yournnpic.com
@@ -148,7 +142,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 1nn.fun
 0.0.0.0 www.allyoungmodels.com
 0.0.0.0 artnonude.com
-0.0.0.0 happyteens.click
 0.0.0.0 deepkiss.site
 0.0.0.0 eee.yagde.ru
 0.0.0.0 fartoona.site
@@ -172,7 +165,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 maxvoll.icu
 0.0.0.0 nakedteen.site
 0.0.0.0 nanoerosex.xyz
-0.0.0.0 new.0999top.bid
 0.0.0.0 newstar-models18.ru
 0.0.0.0 newstars.pw
 0.0.0.0 niceimg.pw
@@ -197,13 +189,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 wholikes.pw
 0.0.0.0 www.cumonprintedpics.com
 0.0.0.0 www.drochen.site
-0.0.0.0 www.eroticdreamsxxx.xyz
 0.0.0.0 www.freelopics.gdn
 0.0.0.0 www.girl-sex-videos.com
 0.0.0.0 www.greewaler.gdn
 0.0.0.0 www.ketedachm.site
 0.0.0.0 www.klopinkas.site
-0.0.0.0 www.kvetinas.club
 0.0.0.0 www.linabhan.site
 0.0.0.0 www.murino.site
 0.0.0.0 www.mygoodpicsfyou.gdn
@@ -248,14 +238,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 tipimoli.pw
 0.0.0.0 iii.lovetoski.ru
 0.0.0.0 superfantastic.site
-0.0.0.0 hot.0999top.bid
 0.0.0.0 azur.samnot.site
 0.0.0.0 bova.samnot.site
 0.0.0.0 samnot.site
 0.0.0.0 landgalls.xyz
 0.0.0.0 sixsax.men
 0.0.0.0 14yp.site
-0.0.0.0 eroticdreamsxxx.xyz
 0.0.0.0 15yp.site
 0.0.0.0 15l.site
 0.0.0.0 nicecuties.xyz
@@ -268,16 +256,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 cockdickbig.xyz
 0.0.0.0 sexospornos.xyz
 0.0.0.0 victimofsexmovies.net
-0.0.0.0 0999top.bid
 0.0.0.0 maxcuties3.temp.swtest.ru
 0.0.0.0 tinyteens.xyz
 0.0.0.0 cuteteengirls.xyz
 0.0.0.0 xtramilk.fun
-0.0.0.0 bestlolis.xyz
 0.0.0.0 pinklike.ooo
 0.0.0.0 tonipadla.site
 0.0.0.0 lastcont.fun
-0.0.0.0 freemix.site
 0.0.0.0 cumface.fun
 0.0.0.0 xcuteme.moy.su
 0.0.0.0 lil-for-you.ru
@@ -378,16 +363,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 toopink.bid
 0.0.0.0 hottoto.bid
 0.0.0.0 daddyfuck.ru
-0.0.0.0 lovsee.win
 0.0.0.0 loverytools.club
-0.0.0.0 momoji.date
 0.0.0.0 oleever.pw
 0.0.0.0 shockvideo.xyz
 0.0.0.0 webcam-video.ru
 0.0.0.0 bestvids.top
 0.0.0.0 genevagirls.site
-0.0.0.0 cutepetiteporn.com
-0.0.0.0 nicestory.xyz
 0.0.0.0 ohberry.site
 0.0.0.0 vaginlove.site
 0.0.0.0 clubxzone.xyz
@@ -437,7 +418,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nn-models.fun
 0.0.0.0 av.jpg4.xyz
 0.0.0.0 av.mytubes.xyz
-0.0.0.0 xmodelsector.download
 0.0.0.0 14lp.site
 0.0.0.0 nntop.org
 0.0.0.0 1000models.net
@@ -541,7 +521,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fmceja2.firstmo.com
 0.0.0.0 fmrubyria2.feburo.com
 0.0.0.0 forbiddentoons.org
-0.0.0.0 forceporn.fuckingfree.net
 0.0.0.0 forever.artmodelingstudios.com
 0.0.0.0 forever-models.biz
 0.0.0.0 foro3cartas.comxa.com
@@ -562,7 +541,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 galleries.doubleteamedteens.com
 0.0.0.0 galleries.drawn-sex.com
 0.0.0.0 galleries.drillherbutt.com
-0.0.0.0 galleries.elitedollars.com
 0.0.0.0 galleries.exploitedcollegegirls.com
 0.0.0.0 galleries.gay-comics.net
 0.0.0.0 galleries.girlsgotcream.com
@@ -597,11 +575,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 galleries2.amakings.com
 0.0.0.0 gallerieserotic.com
 0.0.0.0 gallery.14yo-models.com
-0.0.0.0 gallery.5starboys.com
-0.0.0.0 gallery.amazingtwinks.com
 0.0.0.0 gallery.boysfuckteens.com
 0.0.0.0 gallery.eurotwinkin.com
-0.0.0.0 gallery.g-cash.biz
 0.0.0.0 gallery.onlynnhere.com
 0.0.0.0 gallery.teenpinkvideos.com
 0.0.0.0 gallery.washedtwinks.com
@@ -690,8 +665,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kittens.nonudeplace.com
 0.0.0.0 free.nnlopics.com
 0.0.0.0 sv2.mypornwap.com
-0.0.0.0 sv3.mypornwap.com
-0.0.0.0 www.goldensite.xyz
 0.0.0.0 www.gydv.cn
 0.0.0.0 cdn.allteensnude.net
 0.0.0.0 javrep.com
@@ -700,9 +673,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dara.kitunebi.com
 0.0.0.0 nn-forum.net
 0.0.0.0 lu.iboard.ws
-0.0.0.0 jblinks.biz
 0.0.0.0 imgsrc.ru
-"0.0.0.0 	"
 0.0.0.0 ilovenonude.org
 0.0.0.0 videos.2356393.n4.nabble.com
 0.0.0.0 xxxpornotuber.com
@@ -762,7 +733,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 18freshteenies.com
 0.0.0.0 18stream.net
 0.0.0.0 18teenvids.com
-0.0.0.0 18yfuck.com
 0.0.0.0 18ymovie.com
 0.0.0.0 18youngporn.com
 0.0.0.0 199.189.107.52
@@ -819,7 +789,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alina.firstmo.com
 0.0.0.0 alissa.cg-models.net
 0.0.0.0 allofteens.info
-0.0.0.0 allporntoons.com
 0.0.0.0 all-sex-free.net
 0.0.0.0 alotporn.com
 0.0.0.0 amateur.li
@@ -843,10 +812,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 art-modeling.net
 0.0.0.0 artmodelsgirl.com
 0.0.0.0 artmodelsgirl.ru
-0.0.0.0 artnudethumbs.com
 0.0.0.0 artxxxlove.com
 0.0.0.0 asiangirlsmovie.com
-0.0.0.0 asianpantypeeks.com
 0.0.0.0 assmii.com
 0.0.0.0 ateengirls.com
 0.0.0.0 ateeniestube.com
@@ -924,8 +891,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 thumbnails117.imagebam.com
 0.0.0.0 img9.nudedworld.com
 0.0.0.0 lovelush1.fun
-0.0.0.0 picsharing.top
-0.0.0.0 watchmygfgirls.com
 0.0.0.0 cucoldsucker.xyz
 0.0.0.0 best-host-files.ru
 0.0.0.0 xnxxx.pw
@@ -952,7 +917,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cds.z7w7u9h7.hwcdn.net
 0.0.0.0 chan.sankakucomplex.com
 0.0.0.0 charming-girls.net
-0.0.0.0 cheerfulagency.com
 0.0.0.0 chegger-models.com
 0.0.0.0 cherish.artmodelingstudios.com
 0.0.0.0 cherryface.com
@@ -963,7 +927,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ciarra.artmodelsgirl.com
 0.0.0.0 ciarra-juliette.sweetdoll.bz
 0.0.0.0 cielocaliente.com
-0.0.0.0 clickonteen.com
 0.0.0.0 clipsporn.net
 0.0.0.0 clitgames.com
 0.0.0.0 cloy.com
@@ -1044,7 +1007,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dolljufs.ucoz.co.uk
 0.0.0.0 domai-art.com
 0.0.0.0 domoteens.com
-0.0.0.0 dosgirls.com
 0.0.0.0 doubleteamedteens.com
 0.0.0.0 dream.thumblogger.com
 "0.0.0.0 dreampornpictures.com	"
@@ -1113,7 +1075,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gays.allboyshere.com
 0.0.0.0 gaysteenlovers.com
 0.0.0.0 gayttt.com
-0.0.0.0 gemhost.info
 0.0.0.0 generation.aceboard.com
 0.0.0.0 gentle-down.com
 0.0.0.0 gfsale.com
@@ -1133,6 +1094,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 h-aki.cocolog-nifty.com
 0.0.0.0 hamsterpillar.tv
 0.0.0.0 hanga.freepornhosting.com
+0.0.0.0 happyteens.click
 0.0.0.0 happywank.com
 0.0.0.0 hardcoreteengirls.com
 0.0.0.0 hardcoreteenz.com
@@ -1177,7 +1139,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hrdpdfl7.paginas.sapo.pt
 0.0.0.0 hw03.pictures.pornerbros.com
 0.0.0.0 i.adorevids.com
-0.0.0.0 i.cartoon-hentai.net
 0.0.0.0 nonuchan.net
 0.0.0.0 explorenncomm.club
 0.0.0.0 bianka.click
@@ -1275,7 +1236,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 colitahentai.com
 0.0.0.0 pics.nonufix.top
 0.0.0.0 18teensex.club
-0.0.0.0 sharingmygf.com
 0.0.0.0 geosity.ml
 0.0.0.0 img138.imageshack.us
 0.0.0.0 img141.imageshack.us
@@ -1386,7 +1346,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 legal-models.info
 0.0.0.0 levinpic.org
 0.0.0.0 lia.holymodels.com
-0.0.0.0 lif3.net
 0.0.0.0 likenn.ru
 0.0.0.0 likeyoung.org
 0.0.0.0 lil-amateurs.com
@@ -1397,7 +1356,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 links.stylish-models.com
 0.0.0.0 listkkk.clan.su
 0.0.0.0 littleamateurgirls.com
-0.0.0.0 littlefiles.fileave.com
 0.0.0.0 littlehellcat.com
 0.0.0.0 little-lady.info
 0.0.0.0 little-models.info
@@ -1488,8 +1446,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 makelove2.xyz
 0.0.0.0 doteens.gdn
 0.0.0.0 obscene-desires-xxx.top
-0.0.0.0 www.coolpornteen.club
-0.0.0.0 xteentube.net
 0.0.0.0 model18.ru
 0.0.0.0 loveset.clan.su
 0.0.0.0 pussyslist.ru
@@ -1518,7 +1474,6 @@ ff02::3 ip6-allhosts
 "0.0.0.0 moviepornshop.com	"
 0.0.0.0 moviepornshop.com
 0.0.0.0 mpxgirls.com
-0.0.0.0 mrpornsite.com
 0.0.0.0 msnwhores.com
 0.0.0.0 multi.xnxx.com
 0.0.0.0 multigrab.olimptraffic.com
@@ -1542,7 +1497,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fileforfun.top
 0.0.0.0 niceteen.top
 0.0.0.0 my3xxx.com
-0.0.0.0 myboyssite.com
 0.0.0.0 myemogirl.com
 0.0.0.0 myexbaby.com
 0.0.0.0 myfirstteens.com
@@ -1568,7 +1522,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 new.beataporn.com
 0.0.0.0 new.nonudeplace.com
 0.0.0.0 new.younglegalporn.com
-0.0.0.0 new-art-nude.net
 0.0.0.0 newestpornlinks.com
 0.0.0.0 newnubiles.net
 0.0.0.0 new-nude-girls.net
@@ -1579,11 +1532,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nezemnoykaif.com
 0.0.0.0 nfsx.com
 0.0.0.0 nicexvideostube.com
-0.0.0.0 nichegalz.com
-0.0.0.0 nighttubes.com
-0.0.0.0 nn-1.com
 0.0.0.0 nn-art.info
-0.0.0.0 nn-bbs.info
 0.0.0.0 nn-beauties.com
 0.0.0.0 nn-girls.biz
 0.0.0.0 nn-lola.net
@@ -1601,7 +1550,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nonudes.info
 0.0.0.0 nonudeville.com
 0.0.0.0 nonude-vip.com
-0.0.0.0 nsfwtotal.com
 0.0.0.0 nubilegirlsvideos.com
 0.0.0.0 nudeforever.thumblogger.com
 0.0.0.0 nudes.hegre-art.com
@@ -1654,7 +1602,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 photo-angels.biz
 0.0.0.0 photolockdown.com
 0.0.0.0 picpost.do.am
-0.0.0.0 pics.allporntoons.com
 0.0.0.0 pics.dmm.co.jp
 0.0.0.0 pics.iceporn.com
 0.0.0.0 pics.xxxporntoon.com
@@ -1674,13 +1621,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 lustteens.net
 0.0.0.0 xmodelboard.download
 0.0.0.0 pornspace.info
-0.0.0.0 www.stilltube.com
 0.0.0.0 nudist-movies.com
-0.0.0.0 beach-bad-girls.com
 0.0.0.0 nudistmovies.info
 0.0.0.0 www.nsporn.com
-0.0.0.0 www.zeroultimate.com
-0.0.0.0 forbiddenforum.com
 0.0.0.0 nudismonline.com
 0.0.0.0 llmm1.me
 0.0.0.0 tianamodel.com
@@ -1690,7 +1633,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pinkangelonline.tk
 0.0.0.0 pinkberrytube.com
 0.0.0.0 pinkyteenlinks.tk
-0.0.0.0 pixvenue.com
 0.0.0.0 plainmovies.com
 0.0.0.0 pleasure-models.com
 0.0.0.0 plentytube.com
@@ -1698,9 +1640,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pohmele.com
 0.0.0.0 porn69.us
 0.0.0.0 pornateen.com
-0.0.0.0 porn-college.com
 0.0.0.0 pornfreeworld.com
-0.0.0.0 pornfuze.com
 0.0.0.0 pornharmony.com
 0.0.0.0 pornharvest.com
 0.0.0.0 pornhostclips.com
@@ -1709,8 +1649,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 porno-games.eu
 0.0.0.0 pornohome.net
 0.0.0.0 pornoinrussia.com
-0.0.0.0 pornoteenxxx.com
-0.0.0.0 pornsauna.com
 0.0.0.0 porntube33.com
 0.0.0.0 pornups.com
 0.0.0.0 pornvers2.com
@@ -1721,15 +1659,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 postimg.org
 0.0.0.0 power2porn.com
 0.0.0.0 powerfortennis.com
-0.0.0.0 precioustwinks.com
 0.0.0.0 premiumgirls.org
-0.0.0.0 preteen.preteen-supermodel.org
 0.0.0.0 preteen.xyz
 0.0.0.0 preteen0.com
 0.0.0.0 preteenposing.com
 0.0.0.0 preteensnonenude.com
 0.0.0.0 prettyamateursgirls.com
-0.0.0.0 prettyandbold.com
 0.0.0.0 prettyteenies.net
 0.0.0.0 web.archive.org
 0.0.0.0 userimage2.360doc.com
@@ -1765,9 +1700,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 putaespana.com
 0.0.0.0 r2.plugrush.com
 0.0.0.0 rabea.sweetdoll.bz
-0.0.0.0 randleclips.com
 0.0.0.0 random.ve.tripod.com
-0.0.0.0 rapid4me.com
 0.0.0.0 ratx.com
 0.0.0.0 rawyoungporn.com
 0.0.0.0 realasianteens.com
@@ -1809,8 +1742,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 s5d2.turboimagehost.com
 0.0.0.0 s8.postimg.org
 0.0.0.0 s8.us.is.pp.ru
-0.0.0.0 sakhirun.0fees.net
-0.0.0.0 satisfucktion.net
 0.0.0.0 schoolbuschicks.com
 0.0.0.0 school-virgins.net
 0.0.0.0 scoregroup.vo.llnwd.net
@@ -1821,7 +1752,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 self-made-video.com
 0.0.0.0 sex143.net
 0.0.0.0 sex-2.4-hentai.com
-0.0.0.0 sexandporntube.com
 0.0.0.0 sexangels.net
 0.0.0.0 sexchan.info
 0.0.0.0 sexfreegalls.com
@@ -1832,13 +1762,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 sexteensvideos.com
 0.0.0.0 sextube.fm
 0.0.0.0 sexxxyteentube.net
-0.0.0.0 sexycap.com
 0.0.0.0 sexy-hentai.net
 0.0.0.0 sexynakedgirls.xyz
 0.0.0.0 sexyrank.org
 "0.0.0.0 sexy-tube-site.com	"
 0.0.0.0 sexy-tube-site.com
-0.0.0.0 sharedhomevideo.com
 0.0.0.0 shareporno.com
 0.0.0.0 sharlotta.legalmodolls.com
 0.0.0.0 shy-cams.com
@@ -1850,10 +1778,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 sites.show-star.biz
 0.0.0.0 skateens.com
 0.0.0.0 smaiijgf.clan.su
-0.0.0.0 smallgirls.fileave.com
 0.0.0.0 smalltitshunter.com
 0.0.0.0 smart.gametit.ru
-0.0.0.0 smartporntube.com
 0.0.0.0 smithmovies.com
 0.0.0.0 smutty.so.clients.cdn13.com
 0.0.0.0 smuttystuff.mexcam.mx
@@ -1881,10 +1807,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 sugarmolly.com
 0.0.0.0 superpornovoyeur.com
 0.0.0.0 superteenz.com
-0.0.0.0 sweetagency.com
 0.0.0.0 sweetasianhd.com
 0.0.0.0 sweetnudists.com
-0.0.0.0 sweetstudents.com
 0.0.0.0 sweet-young.info
 0.0.0.0 sxteengirls.com
 0.0.0.0 t1.imgchili.com
@@ -1903,7 +1827,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tdr.aquaray.ru
 0.0.0.0 teddy.nonudeplace.com
 0.0.0.0 teen.gigaporn.org
-0.0.0.0 naughtyseries.com
 0.0.0.0 sweettit.com
 0.0.0.0 fullpornwatch.com
 0.0.0.0 lolayoung.com
@@ -1917,7 +1840,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tnttube.com
 0.0.0.0 mhd6.com
 0.0.0.0 ls-models.click
-0.0.0.0 fuckingpetiteteen.com
 0.0.0.0 cutemodels.biz
 0.0.0.0 teenart.click
 0.0.0.0 getyournn.xyz
@@ -1934,7 +1856,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 teenairs.com
 0.0.0.0 teenartclub.net
 0.0.0.0 teenartphotos.com
-0.0.0.0 teenbabesgallery.com
 0.0.0.0 teenbe.com
 0.0.0.0 teenbin.com
 0.0.0.0 teenbomb.thumblogger.com
@@ -1957,7 +1878,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 teenhardcorevids.com
 0.0.0.0 teenland.biz
 0.0.0.0 teenlem.com
-0.0.0.0 teenmandarin.com
 0.0.0.0 teen-model-directory.com
 0.0.0.0 teenmodelsex.com
 0.0.0.0 teen-models-teens.com
@@ -2013,16 +1933,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 thumbnails106.imagebam.com
 0.0.0.0 thumbnails107.imagebam.com
 0.0.0.0 thumbnails110.imagebam.com
-0.0.0.0 thumbs.21hub.com
 0.0.0.0 thumbs.21pron.com
 0.0.0.0 thumbs.brandytube.com
 0.0.0.0 thumbs.clubofporn.com
-0.0.0.0 thumbs.free-matures.com
-0.0.0.0 thumbs.gradeuptube.com
 0.0.0.0 thumbs.lusthero.com
 0.0.0.0 thumbs.n1toons.com
 0.0.0.0 thumbs.newsextv.com
-0.0.0.0 thumbs.pornbaytube.com
 0.0.0.0 thumbs.superhentaisex.com
 0.0.0.0 thumbs.teenmpegs.com
 0.0.0.0 thumbs.teenpussyphotos.com
@@ -2061,10 +1977,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 top.nonude-free-galleries.com
 0.0.0.0 top.pink-portal.com
 0.0.0.0 top.schoolgirls-list.com
-0.0.0.0 top.sweet-angels.org
 0.0.0.0 top.tinylittlegf.com
 0.0.0.0 topchan.info
-0.0.0.0 topmania.ml
 0.0.0.0 topporngirls.com
 0.0.0.0 totally-cartoon.com
 0.0.0.0 totallypervert.com
@@ -2095,10 +2009,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 unozomer.com
 0.0.0.0 upsvids.com
 0.0.0.0 usuaris.tinet.org
-0.0.0.0 uttog.com
 0.0.0.0 uvideo.co.tv
 0.0.0.0 vcteens.com
-0.0.0.0 vdoloading.fileave.com
 0.0.0.0 vera-models.com
 0.0.0.0 veramovies.com
 0.0.0.0 veryyoung.org
@@ -2111,13 +2023,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 video.xnxx.com
 0.0.0.0 video1.school-models.net
 0.0.0.0 video2.show-star.biz
-0.0.0.0 videobest.fileave.com
-"0.0.0.0 videofreeonline.fileave.com		"
 0.0.0.0 videoonline.omiki.com
 0.0.0.0 videoonline.tanmono.com
 0.0.0.0 videoplayer.dotera.net
 0.0.0.0 videos.teensnow.com
-0.0.0.0 videos2tube.fileave.com
+"0.0.0.0 videos.teensnow.co	m"
 0.0.0.0 videosgratismujeres.com
 0.0.0.0 videosrosa.com
 0.0.0.0 videossexogratis.net
@@ -2152,7 +2062,6 @@ ff02::3 ip6-allhosts
 "0.0.0.0 welcome.youngporn.net	"
 0.0.0.0 welcome.youngporn.net
 0.0.0.0 wellwaygo.com
-0.0.0.0 welovegfs.com
 0.0.0.0 wetfem.com
 0.0.0.0 whatismy.atspace.name
 0.0.0.0 whiteberry.000a.biz
@@ -2162,14 +2071,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 wooowteen.com
 0.0.0.0 worldphotomodel.com
 0.0.0.0 world-teens.com
-0.0.0.0 wowteens.net
 0.0.0.0 www.0pig.com
 0.0.0.0 www.100gbvideo.com
 0.0.0.0 www.123-amateur.com
 0.0.0.0 www.150teengalleries.com
 0.0.0.0 www.17babes.com
 0.0.0.0 www.188movie.com
-0.0.0.0 www.18andabused.com
 0.0.0.0 www.18bestyears25.com
 0.0.0.0 www.18eighteen.com
 "0.0.0.0 www.18freshteenies.com	"
@@ -2185,9 +2092,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.18youngporn.com
 0.0.0.0 www.1classtube.com
 0.0.0.0 www.1freetube.com
-0.0.0.0 www.1hottube.com
 0.0.0.0 www.1stingirl.com
-0.0.0.0 www.21hub.com
 0.0.0.0 www.247amateurvideos.com
 0.0.0.0 momsexplosion.ru
 0.0.0.0 cutie.press
@@ -2219,7 +2124,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.adultcybersites.com
 0.0.0.0 www.afvicentelopez.com.ar
 0.0.0.0 www.ageofpron.com
-0.0.0.0 www.alcomature.com
 0.0.0.0 www.alcoporn.com
 0.0.0.0 www.alenamodel.com
 0.0.0.0 www.alexaporn.com
@@ -2228,7 +2132,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.all-no-nude.com
 0.0.0.0 www.allteenrevpass.com
 0.0.0.0 www.alphaporno.com
-0.0.0.0 www.amateur-hard.com
 0.0.0.0 www.amateurxfilms.com
 0.0.0.0 www.amourangels.com
 0.0.0.0 www.anal.pro
@@ -2260,7 +2163,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bebaretoo.com
 0.0.0.0 www.beeztube.com
 0.0.0.0 www.berryteenies.com
-0.0.0.0 www.bestbuys.com
 0.0.0.0 www.bestcandid.com
 0.0.0.0 www.bestgamestoplay.net
 0.0.0.0 www.bestporntube.me
@@ -2273,13 +2175,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bigtimetube.com
 0.0.0.0 www.billmpegs.com
 0.0.0.0 www.bitchcrawler.com
-0.0.0.0 www.bizarre-extreme.com
 0.0.0.0 www.bizzarez.com
 0.0.0.0 www.blackzandu.com
 0.0.0.0 www.blboystube.com
 0.0.0.0 www.blogbugs.org
 0.0.0.0 www.bluffyporn.com
-0.0.0.0 motherless.com
 0.0.0.0 tyminska.eu
 0.0.0.0 144chan.id
 0.0.0.0 cattyloli.comunidades.net
@@ -2289,15 +2189,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 aclip2018.net
 0.0.0.0 www.bond-adventures.com
 0.0.0.0 www.bookporntube.com
-0.0.0.0 www.boomteens.com
-0.0.0.0 www.bouncertube.com
 0.0.0.0 www.boyaviator.com
 0.0.0.0 www.boycall.com
 0.0.0.0 www.boys-hardcore-pics.com
 "0.0.0.0 www.boys-love.com	"
 0.0.0.0 www.boysmaster.com
 0.0.0.0 www.boysolution.info
-0.0.0.0 www.boyssperm.com
 0.0.0.0 www.brandigirls.com
 0.0.0.0 www.brandytube.com
 0.0.0.0 www.bravoerotica.com
@@ -2316,9 +2213,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.camduty.com
 0.0.0.0 www.candycoatedteens.com
 0.0.0.0 www.candydollchan.org
-0.0.0.0 www.carlaschoice.com
 0.0.0.0 www.carlpotterfoll.cn
-"0.0.0.0 www.carmencaballerob.byethost31.com	"
 0.0.0.0 www.cartoon-holiday.com
 0.0.0.0 www.cartoon-pussy.com
 0.0.0.0 www.cartoonreality.com
@@ -2328,7 +2223,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.cartoonvalley.com
 0.0.0.0 www.centertubs.com
 0.0.0.0 www.cerdas.com
-0.0.0.0 www.cheerfulagency.com
 0.0.0.0 www.chegger-models.com
 0.0.0.0 www.chicas18.com.ar
 0.0.0.0 www.chickipiki.com
@@ -2353,7 +2247,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.crazyfilth.com
 0.0.0.0 www.crueltrainer.com
 0.0.0.0 www.cs.youngtitstube.com
-0.0.0.0 www.cuantosexo.com
 0.0.0.0 www.culiar.com
 0.0.0.0 www.cumbiaporno.com
 0.0.0.0 www.cumqueenrachel.com
@@ -2441,13 +2334,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.flamingotube.com
 0.0.0.0 www.flawless18.com
 0.0.0.0 www.follandovirgenes.info
-"0.0.0.0 www.fotos69.com	"
-0.0.0.0 www.foxythais.com
 0.0.0.0 www.fpixx.com
 0.0.0.0 www.frank-teens.com
 0.0.0.0 www.free-boys-pics.net
 0.0.0.0 www.freefilestore.com
-0.0.0.0 www.freehentaiworld.com
 0.0.0.0 www.freehostedpics.com
 0.0.0.0 www.freeporn.hu
 0.0.0.0 www.freeporngirls.us
@@ -2457,7 +2347,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.freetubecats.com
 0.0.0.0 www.freexcafe.com
 0.0.0.0 www.free-young-galleries.com
-0.0.0.0 www.fresh-girls.net
 0.0.0.0 www.freshgirls.tv
 0.0.0.0 www.freshporntube.com
 0.0.0.0 www.freshteenvideos.com
@@ -2478,7 +2367,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.fyvm.net
 0.0.0.0 www.galleryhost.com
 0.0.0.0 www.gaybdsmworld.com
-0.0.0.0 www.gayboylove.net
 0.0.0.0 www.gayboystube.com
 0.0.0.0 www.gay-comics.net
 0.0.0.0 www.gaypaycheck.com
@@ -2491,7 +2379,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.girlsandskirts.com
 0.0.0.0 www.girlsonstickam.com
 0.0.0.0 www.givemeanime.com
-0.0.0.0 www.gladteen.com
 0.0.0.0 www.goamateursexvideos.com
 0.0.0.0 www.goldjizz.com
 0.0.0.0 www.gonzoxxxmovies.com
@@ -2515,12 +2402,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.hentaidivx.com
 0.0.0.0 www.hentaikeeper.com
 0.0.0.0 www.hentailines.com
-0.0.0.0 www.hentaimedia.com
 0.0.0.0 www.hentaiplayground.com
 0.0.0.0 www.hentaipoison.com
 0.0.0.0 www.hentai-toonz.com
 0.0.0.0 www.hentaiza.com
-0.0.0.0 www.hereamateurs.com
 0.0.0.0 www.herenextdoor.com
 0.0.0.0 www.hisexgirls.com
 0.0.0.0 www.hithomemovies.com
@@ -2529,6 +2414,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.homemadepostings.com
 0.0.0.0 nonuforum.com
 0.0.0.0 teensblog.net
+0.0.0.0 www.xgirls.site
 0.0.0.0 www.homemade-voyeur.com
 0.0.0.0 www.homepornlinks.com
 0.0.0.0 www.homeprivatevids.com
@@ -2549,7 +2435,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.hottube.me
 0.0.0.0 www.houseofxi.com
 0.0.0.0 www.hyenatube.com
-0.0.0.0 www.i11egal.com
 0.0.0.0 www.iberporno.com
 0.0.0.0 www.idealpussy.net
 0.0.0.0 www.iliketubes.com
@@ -2566,16 +2451,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.imagefest.com
 0.0.0.0 www.imagestgp.com
 0.0.0.0 www.indecent.me
-0.0.0.0 www.indianteens.org
 0.0.0.0 www.innocentcute.com
-0.0.0.0 www.innocentcuties.com
 0.0.0.0 www.innocentdickgirls.com
 0.0.0.0 www.innocentdream.com
 0.0.0.0 www.internationalcomix.com
 0.0.0.0 www.ipornmovs.com
 0.0.0.0 www.iron-girls.com
 0.0.0.0 www.iseekboys.com
-0.0.0.0 www.isexasian.com
 0.0.0.0 www.ivanafukalot.com
 0.0.0.0 www.ixtractor.com
 0.0.0.0 www.jailbaitgirls.org
@@ -2586,11 +2468,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.jeansvids.com
 0.0.0.0 www.jerk-off-pics.com
 0.0.0.0 www.jizzthis.com
-0.0.0.0 www.jlist.com
 0.0.0.0 www.jonnytv.com
 0.0.0.0 www.josiejunior.com
 0.0.0.0 www.jovencitasgratis.com.ar
-0.0.0.0 www.juegosgratis.net
 0.0.0.0 www.juegospornogratis.com
 0.0.0.0 www.juicyads.com
 "0.0.0.0 www.webcamtalk.net	"
@@ -2618,7 +2498,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.legalcherry.com
 0.0.0.0 www.lighthousemovies.com
 0.0.0.0 www.lil18.com
-0.0.0.0 www.linamodel.net
 0.0.0.0 www.lionporn.com
 0.0.0.0 www.little-cuties.org
 0.0.0.0 www.littleliana.com
@@ -2635,11 +2514,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.lollylist.org
 0.0.0.0 www.lopics-for-you.com
 0.0.0.0 www.lovely-virgins.com
-0.0.0.0 www.lovetgp.com
 0.0.0.0 www.loveyounggirlz.com
 0.0.0.0 www.ls-magazine.com
 0.0.0.0 www.lux-teen-pics.com
-0.0.0.0 www.l-virgin.com
 0.0.0.0 www.macabrox.com
 0.0.0.0 www.madgirlthumbs.com
 0.0.0.0 www.madmovs.com
@@ -2692,7 +2569,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.myusenetdirect.net
 0.0.0.0 www.myyoungsex.com
 0.0.0.0 www.naked17.com
-0.0.0.0 www.naked-babe.com
 0.0.0.0 www.nakedsologirls.com
 0.0.0.0 www.nasty-angels.com
 0.0.0.0 www.nastymovs.com
@@ -2710,9 +2586,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.newteenpics.net
 0.0.0.0 www.nngalleries.com
 0.0.0.0 www.nnhomepics.bz
-0.0.0.0 www.nn-nymphets.com
 "0.0.0.0 www.nn-show-pics.com	"
-0.0.0.0 www.nnzipstore.com
 0.0.0.0 www.nofec.org
 0.0.0.0 www.nonnudegallery.net
 0.0.0.0 www.nonnudemodel.info
@@ -2724,7 +2598,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.nonudepreteenmodels.com
 0.0.0.0 www.noonetube.com
 0.0.0.0 www.noticiasdesexo.com
-0.0.0.0 www.nsfwtotal.com
 0.0.0.0 www.nsgalleries.com
 0.0.0.0 www.nubileones.net
 0.0.0.0 www.nubiles.net
@@ -2752,7 +2625,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.parispornmovies.com
 0.0.0.0 www.pb15.co.tv
 0.0.0.0 www.peachcartoons.com
-0.0.0.0 www.pedromoore.com
 0.0.0.0 www.penisbot.com
 0.0.0.0 www.peterpaulxxx.com
 0.0.0.0 www.petiteinnocence.com
@@ -2772,24 +2644,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pornateen.com
 0.0.0.0 www.porncontrol.com
 0.0.0.0 www.pornester.com
-0.0.0.0 www.pornfans.net
 0.0.0.0 www.porngonzo.com
-0.0.0.0 www.pornhome.com
 0.0.0.0 www.pornochi.com
 0.0.0.0 www.pornocook.tv
 0.0.0.0 www.pornohome.net
 0.0.0.0 www.pornologo.com
-0.0.0.0 www.pornoteenxxx.com
 0.0.0.0 www.pornsticky.com
 0.0.0.0 www.pornswat.com
 0.0.0.0 www.porntours.com
-0.0.0.0 www.pornunlim.com
 0.0.0.0 www.pornup.me
 0.0.0.0 www.pornvers2.com
 0.0.0.0 www.pornvideospider.com
 0.0.0.0 www.pornzeus.com
 0.0.0.0 www.positivecuties.com
-0.0.0.0 www.preteen.preteen-supermodel.org
 0.0.0.0 www.preteennonude.com
 0.0.0.0 www.prettyabeauty.com
 0.0.0.0 www.prettyamateursgirls.com
@@ -2800,8 +2667,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.queensoferoticteens.net
 0.0.0.0 www.rapelist.com
 0.0.0.0 www.rapepages.com
-0.0.0.0 www.rape-vids.net
-0.0.0.0 www.rapidig.com
 0.0.0.0 www.rare-porno-movies.com
 0.0.0.0 www.ratx.com
 0.0.0.0 www.rawasianmovies.com
@@ -2850,7 +2715,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sextoonsdot.com
 0.0.0.0 www.sexualhentai.net
 0.0.0.0 www.sexxxtape.net
-0.0.0.0 www.sexybeauties.com
 0.0.0.0 www.sexycamteens.com
 0.0.0.0 www.sexy-photos.net
 0.0.0.0 www.sexyteens18to19.com
@@ -2874,7 +2738,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.spankwire.com
 0.0.0.0 www.special-movies.com
 0.0.0.0 www.specialteenporn.com
-0.0.0.0 www.spermcult.com
 0.0.0.0 www.spermhotel.com
 0.0.0.0 www.spyfans.com
 0.0.0.0 www.spynudism.com
@@ -2886,14 +2749,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.stvid.com
 0.0.0.0 www.subeimagenes.com
 0.0.0.0 www.sunporno.com
-0.0.0.0 www.supercalcinhas.com
 0.0.0.0 www.superteenz.com
 0.0.0.0 www.supertightvirgins.com
 0.0.0.0 www.svetlanamodel.com
 0.0.0.0 www.sweetgirlie.com
 0.0.0.0 www.sweethotteens.com
 0.0.0.0 www.sweetlil18.com
-0.0.0.0 www.sweetstudents.com
 0.0.0.0 www.sweetythumbs.com
 0.0.0.0 www.talentyoung.com
 0.0.0.0 www.tat4free.com
@@ -2927,7 +2788,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.teenosaur.com
 0.0.0.0 www.teenpantylover.com
 0.0.0.0 www.teenporngallery.net
-0.0.0.0 www.teen-porno-videos.com
 0.0.0.0 www.teenpornstorage.net
 0.0.0.0 www.teenport.com
 0.0.0.0 www.teenpussy.ws
@@ -2951,7 +2811,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.teenstube.cc
 0.0.0.0 www.teenswishes.com
 0.0.0.0 www.teentiger.com
-0.0.0.0 www.teentonic.net
 0.0.0.0 www.teentrap.com
 0.0.0.0 www.teen-tube.me
 0.0.0.0 www.teentubeq.com
@@ -2963,13 +2822,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.tequilateens.net
 0.0.0.0 www.terrrosenberg.cn
 0.0.0.0 www.thefuckdolls.com
-0.0.0.0 www.themetart.com
 0.0.0.0 www.thepornart.com
 0.0.0.0 www.thumb18.com
 0.0.0.0 www.thumbnail-preview.com
 0.0.0.0 www.tianamodel.com
 0.0.0.0 www.tightfirsttimers.com
-0.0.0.0 www.tight-teenies.com
 0.0.0.0 www.timecodenola.com
 0.0.0.0 www.tiny18.net
 0.0.0.0 www.tinylittlegf.com
@@ -3012,17 +2869,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.uniformasian.com
 0.0.0.0 www.uniformasian.net
 0.0.0.0 www.upteentube.com
-0.0.0.0 www.vasilisamodel.com
 0.0.0.0 www.veramovies.com
 0.0.0.0 www.vervideosgay.com
 0.0.0.0 www.veryspecialteens.com
 0.0.0.0 www.victormanuelleonline.com
 0.0.0.0 www.videarn.com
-0.0.0.0 www.videhoe.com
 0.0.0.0 www.videosbang.com
 0.0.0.0 www.videosgratis.net
 0.0.0.0 www.videosmania.net
-"0.0.0.0 www.videospornocaseros.com					"
 0.0.0.0 www.videosvirgenes.net
 0.0.0.0 www.videosxxxdeputas.com
 0.0.0.0 www.videoteen.ah.to
@@ -3033,7 +2887,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.virgin-beauties.com
 0.0.0.0 www.virgin-girls.net
 0.0.0.0 www.virginoff.com
-0.0.0.0 www.virginspussys.com
 0.0.0.0 www.visavids.com
 0.0.0.0 www.vofman.com
 0.0.0.0 www.voyeurlatinocolegialas.com
@@ -3043,13 +2896,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.warmpussytube.com
 0.0.0.0 www.wastedamateurs.com
 0.0.0.0 www.watchmygf.com
-0.0.0.0 www.watchtubeporn.com
 0.0.0.0 www.webcamporn.xxx
 0.0.0.0 www.webcoolvideos.com
 0.0.0.0 www.webmodels.tv
-0.0.0.0 www.welovegfs.com
 0.0.0.0 www.west-models.com
-0.0.0.0 www.wet-models.com
 0.0.0.0 www.wetteenpussy.biz
 0.0.0.0 www.wet-vagina.net
 0.0.0.0 www.wetvirgin.net
@@ -3063,33 +2913,27 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.wooowteen.com
 0.0.0.0 www.worldangels.info
 0.0.0.0 www.wowmodels.info
-0.0.0.0 www.wowteens.net
 0.0.0.0 www.xgeekstube.com
 0.0.0.0 www.xl-porn.com
 0.0.0.0 www.xmoviles.com
 0.0.0.0 www.xoriental.com
-0.0.0.0 www.x-preteens.com
 0.0.0.0 www.xsharebox.com
 0.0.0.0 www.xteenboy.com
 "0.0.0.0 www.xteensex.com	"
 0.0.0.0 www.xtravids.com
 0.0.0.0 www.xtubenow.com
 0.0.0.0 www.xxsmodels.info
-0.0.0.0 www.xxx69.net
 0.0.0.0 www.xxx-animatrix.com
 0.0.0.0 www.xxx-games.ws
 0.0.0.0 www.xxxporntoon.com
 0.0.0.0 www.xxxprivates.com
-0.0.0.0 www.xxxteenclub.com
 0.0.0.0 www.xxxteenietube.com
 0.0.0.0 www.xxxteensexxx.com
-0.0.0.0 www.xxxvideosdesexo.com
 0.0.0.0 www.xyoung.info
 0.0.0.0 www.yeahteentube.com
 0.0.0.0 www.yed19up.com
 0.0.0.0 www.yobt.tv
 0.0.0.0 www.yoneyo.ed.jp
-0.0.0.0 www.youfilesearch.com
 0.0.0.0 www.youjizz.com
 0.0.0.0 www.young-and-virgin.com
 0.0.0.0 www.youngcuties.org
@@ -3106,7 +2950,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.youngesttemptation.com
 0.0.0.0 www.youngex.com
 0.0.0.0 www.younggirlsxxx.com
-0.0.0.0 www.young-gusel.com
 0.0.0.0 www.youngirlz.net
 0.0.0.0 www.younglibertines.com
 0.0.0.0 www.younglittlegirlies.com
@@ -3117,7 +2960,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.youngpornmovies.com
 0.0.0.0 xmodellog.download
 0.0.0.0 xmodelextra.download
-0.0.0.0 14x.club
 0.0.0.0 nnflowers.com
 0.0.0.0 www.youngpussycats.com
 0.0.0.0 www.young-pussy-porn.net
@@ -3129,17 +2971,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.youngxxxclips.com
 0.0.0.0 www.youratetube.com
 0.0.0.0 www.yourteenie.com
-0.0.0.0 www.youslutty.com
 0.0.0.0 www.youtubelike.com
 0.0.0.0 www.youvideohub.com
 0.0.0.0 www.ypms.net
-0.0.0.0 www.yummysperm.com
 0.0.0.0 www.yummyvids.com
 0.0.0.0 www.zazatube.com
 0.0.0.0 www.zenasextube.net
 0.0.0.0 www.zorraes.com
 0.0.0.0 xx-teen.click
-0.0.0.0 zeroultimate.com
 0.0.0.0 crazy18xxx.com
 0.0.0.0 sexxxplanet.net
 0.0.0.0 willyporn.com
@@ -3152,17 +2991,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 www3.fetishhitsgallery.com
 0.0.0.0 www4.kinghost.com
 0.0.0.0 xanax4you.phpbbweb.com
-0.0.0.0 xcovet.com
 0.0.0.0 xdewy.com
 0.0.0.0 x-files-tube.org
 0.0.0.0 xltoons.com
-0.0.0.0 x-nudism.com
 0.0.0.0 xogogo.com
 0.0.0.0 xteenparty.com
 0.0.0.0 xteensex.com
 0.0.0.0 xtrateen.com
 0.0.0.0 xtremeangels-zone.com
-0.0.0.0 xvideoscity.com
 0.0.0.0 xvideoteens.com
 0.0.0.0 xxl.winbb.ru
 0.0.0.0 xxsmodels.info
@@ -3173,10 +3009,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xxxbunker.com
 0.0.0.0 xxxporntoon.com
 0.0.0.0 xxx-porntube.com
-0.0.0.0 xxxteenclub.com
-0.0.0.0 xxxteenfucks.com
 0.0.0.0 xxxteensexxx.com
-0.0.0.0 xxxteensvids.com
 0.0.0.0 xxxtoonssex.com
 0.0.0.0 xxxvogue.net
 0.0.0.0 xxx-xxx.xf.cz
@@ -3186,9 +3019,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yladies.com
 0.0.0.0 yocuties.net
 0.0.0.0 yonudists.lo2006.com
-0.0.0.0 yoslut.com
 0.0.0.0 yostars.pw
-0.0.0.0 young.preteen-supermodel.org
 0.0.0.0 youngamateurs.ws
 0.0.0.0 youngandsexy.nnfree.com
 0.0.0.0 young-and-virgin.com
@@ -3213,7 +3044,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 youngporn.ws
 0.0.0.0 youngporncom.com
 0.0.0.0 youngsex-free.com
-0.0.0.0 young-teen-models.net
 0.0.0.0 youngtm.com
 0.0.0.0 youngxxxclips.com
 0.0.0.0 your-models.net
@@ -3232,7 +3062,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zmoviez.com
 0.0.0.0 zubr.biz
 0.0.0.0 zukotube.com
-0.0.0.0 zyntag.com
 0.0.0.0 69star.ru
 0.0.0.0 ac-pink.net
 0.0.0.0 babymodels.judol.net
@@ -3283,7 +3112,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xxgasm.com
 0.0.0.0 up4.xhcdn.com
 0.0.0.0 models-nn.com
-0.0.0.0 www.videospornodecolegialas.com
 0.0.0.0 up7.xhcdn.com
 0.0.0.0 k210.net
 0.0.0.0 jailbait.icebb.ru
@@ -3303,7 +3131,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fuckxxxx.pw
 0.0.0.0 im3-tub-com.yandex.net
 0.0.0.0 allyourpix.com
-0.0.0.0 s.img.yt
 0.0.0.0 108.imagebam.com
 0.0.0.0 fmaiy2.feburo.com
 0.0.0.0 i79.fastpic.ru
@@ -3315,7 +3142,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blog-imgs-75.fc2.com
 0.0.0.0 pics.dmm.com
 0.0.0.0 www.minimum-av.com
-0.0.0.0 share-ero.pics
 0.0.0.0 celebcenter.us
 0.0.0.0 img5.nudedworld.com
 0.0.0.0 ph2.feburo.com
@@ -3338,18 +3164,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 ist2-2.filesor.com
 0.0.0.0 img114.croea.com
 0.0.0.0 thumbnails115.imagebam.com
-0.0.0.0 pornhome.com
 0.0.0.0 fmceja.feburo.com
 0.0.0.0 eroyakuba.com
-0.0.0.0 www.little-models.pw
 0.0.0.0 kittygfs.com
 0.0.0.0 lolita99.ru
-0.0.0.0 dl-sk.bugil.top
 0.0.0.0 i.imgcandy.net
 0.0.0.0 i.aegke.top
 0.0.0.0 lomoz.tv
 0.0.0.0 128.199.240.48
-0.0.0.0 nudim.org
 0.0.0.0 18chan.ml
 0.0.0.0 o4.us.is.pp.ru
 0.0.0.0 173.214.252.83
@@ -3444,7 +3266,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 youngfor.net
 0.0.0.0 networknn.online
 0.0.0.0 latinamix.net
-0.0.0.0 teenx.win
 0.0.0.0 www.youngs-list.com
 0.0.0.0 www.cute-girls.biz
 0.0.0.0 teen-sex.link
@@ -3501,7 +3322,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 i2.imgchili.net
 0.0.0.0 archive.li
 0.0.0.0 teenshottube.net
-0.0.0.0 pornrainbow.com
 0.0.0.0 img80.imgspice.com
 0.0.0.0 www.picmonster.xyz
 0.0.0.0 crazyfiles.men
@@ -3523,7 +3343,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ls-pics.biz
 0.0.0.0 lolinks.club
 0.0.0.0 xxxkiwi.com
-0.0.0.0 teenprivate.com
 0.0.0.0 angelwitch.top
 0.0.0.0 wondersland.pw
 0.0.0.0 cdn.allteenfuck.com
@@ -3537,7 +3356,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mxtube.in
 0.0.0.0 img18.rajce.idnes.cz
 0.0.0.0 img19.rajce.idnes.cz
-0.0.0.0 picsxsex.com
 0.0.0.0 badliar.xyz
 0.0.0.0 media0.webgarden.es
 0.0.0.0 b9.eu.icdn.ru
@@ -3553,7 +3371,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 imgoutlet.co
 0.0.0.0 forc.xyz
 0.0.0.0 boypost.com
-0.0.0.0 www.gayteenlove.com
 0.0.0.0 lolibay.net
 0.0.0.0 es.av4.xyz
 0.0.0.0 starwaytube.com
@@ -3586,12 +3403,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 wow-virgins.com
 0.0.0.0 thumbs.imagebam.com
 0.0.0.0 imghost.club
-0.0.0.0 longleg.xyz
 0.0.0.0 filexhost.pw
 0.0.0.0 teenbon.com
 0.0.0.0 findsexyteens.com
 0.0.0.0 pornagent.xyz
-0.0.0.0 youngamateurteen.com
 0.0.0.0 onora.pw
 0.0.0.0 i87.fastpic.ru
 0.0.0.0 cdn4.thumbs.motherlessmedia.com
@@ -3606,7 +3421,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www50.zippyshare.com
 0.0.0.0 www.colegialasdecasa.com
 0.0.0.0 www.gayboyshd.com
-0.0.0.0 www.nudeyoungsex.com
 0.0.0.0 www.smoothteentube.com
 0.0.0.0 xwayx.net
 0.0.0.0 vimg.izlesem.org
@@ -3637,17 +3451,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.nudeteens.biz
 0.0.0.0 abiu.cumafev.com
 0.0.0.0 www.nnclub.net
-0.0.0.0 www.russianangels.xyz
 0.0.0.0 nnmodels.club
 0.0.0.0 duo.kvetinas.bz
 0.0.0.0 naomi3.kvetinas.bz
-0.0.0.0 100nn.net
 0.0.0.0 www.nn-clean-top.com
 0.0.0.0 sgirls.hotdolls.info
 0.0.0.0 www.lo-models.xyz
 0.0.0.0 elba.modelsartcenter.com
-0.0.0.0 www.artmodels.xyz
-0.0.0.0 emperor.getxid.com
 0.0.0.0 www.180chan.co
 0.0.0.0 bariteq.site
 0.0.0.0 areo.bariteq.site
@@ -3691,7 +3501,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xxxtesla.site
 0.0.0.0 xxxpipi.com
 0.0.0.0 secretstars.pw
-0.0.0.0 inlove.fun
 0.0.0.0 oazisclub.top
 0.0.0.0 marchan.xyz
 0.0.0.0 redrose.pw
@@ -3717,7 +3526,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nu-8-1-2.com
 0.0.0.0 www.hotpysixxx.gdn
 0.0.0.0 teen-models.ru
-0.0.0.0 www.pottyteen.gdn
 0.0.0.0 pornmaster.xyz
 0.0.0.0 kindaga.site
 0.0.0.0 leoparadise.com
@@ -3737,8 +3545,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 littlethumb.xyz
 0.0.0.0 egonest.pw
 0.0.0.0 magiclove.pw
-0.0.0.0 jjjj.tubeyoung.xyz
-0.0.0.0 niceone.pw
 0.0.0.0 topdolls.pw
 0.0.0.0 homearchive.pw
 0.0.0.0 cance.spoiler.gid.pw
@@ -3762,7 +3568,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hotpysixxx.gdn
 0.0.0.0 starsession.pw
 0.0.0.0 someuploads.com
-0.0.0.0 pt-video.com
 0.0.0.0 virginixtop.fun
 0.0.0.0 solonpics.gdn
 0.0.0.0 xxxmario.com
@@ -3792,12 +3597,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.glamourvideotube.asia
 0.0.0.0 dark-passion.icu
 "0.0.0.0 lovemur.pw	"
-0.0.0.0 hello-teen.com
 0.0.0.0 porncollection.ru
 0.0.0.0 ct32844.tmweb.ru
 0.0.0.0 youngdaddyimage.ru
 0.0.0.0 cutiehoney.xyz
-0.0.0.0 mediaplayer.mobi
 0.0.0.0 teenbeauties.xyz
 0.0.0.0 camteens.co
 0.0.0.0 jbcam.co
@@ -3851,7 +3654,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 babyixntjlabwkpi.onion.link
 0.0.0.0 babyserv.com
 "0.0.0.0 badphotograph.net	"
-0.0.0.0 bbs.30nn.cn
 0.0.0.0 bella.holymodels.com
 0.0.0.0 bianka.artmodeling-studios.com
 0.0.0.0 blowthisplease.com
@@ -3904,7 +3706,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 freehostedpics.ru
 0.0.0.0 freeteensex.org
 0.0.0.0 freeteenstube.org
-0.0.0.0 freikorperkultur.com
 0.0.0.0 freshfreepics.pw
 0.0.0.0 fuckporn-teens.com
 0.0.0.0 fucks.link
@@ -3923,10 +3724,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 hentaifilm.net
 0.0.0.0 hotgirlsfresh.ru
 0.0.0.0 i44.fastpic.ru
-0.0.0.0 images.gallerysense.se
 0.0.0.0 img.jpg4.info
 0.0.0.0 img.jpg4.net
-0.0.0.0 img.jpger.info
 0.0.0.0 img.teenpornvideo.org
 0.0.0.0 img100-213.xvideos.com
 0.0.0.0 img100-490.xvideos.com
@@ -3943,10 +3742,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 inna.tiny-jewels.com
 0.0.0.0 innergirls.com
 0.0.0.0 innocent.nonudeplace.com
-0.0.0.0 jailbaitlovers.com
 0.0.0.0 janet.topmodelsart.com
 0.0.0.0 jjj.krujeva.su
-0.0.0.0 jptrans.naver.net
 0.0.0.0 juicytop.up.a-thera.jp
 0.0.0.0 justatube.com
 0.0.0.0 kaibridge.com
@@ -3974,7 +3771,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lovagyv.com
 0.0.0.0 ls-collection.biz
 0.0.0.0 ls-exlusive.biz
-"0.0.0.0 ls-magazine.org	"
 0.0.0.0 lulu.ru.tf
 0.0.0.0 lump.co
 0.0.0.0 m03.imgmaze.com
@@ -3991,7 +3787,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mrvine.net
 0.0.0.0 my.mail.ru
 0.0.0.0 mypornsnap.com
-0.0.0.0 mypornwap.com
 0.0.0.0 nafnaf.forum3-15.ru
 0.0.0.0 nafnaf.soup.io
 0.0.0.0 nafnaf.zu8.ru
@@ -4034,7 +3829,6 @@ ff02::3 ip6-allhosts
 "0.0.0.0 preteen.xyz	"
 0.0.0.0 preteenalbum.com
 0.0.0.0 private-models.pw
-0.0.0.0 purearchive.xyz
 "0.0.0.0 purenudism.com	"
 0.0.0.0 qia2vpjf3bubn5he.onion.link
 0.0.0.0 raptor.imgtrex.com
@@ -4066,10 +3860,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sv22.snap69.com
 0.0.0.0 sv26.snap69.com
 0.0.0.0 sv27.snap69.com
-0.0.0.0 sv4.mypornwap.com
 0.0.0.0 sxsweet.com
-0.0.0.0 sxwet.com
-0.0.0.0 teen18topic.com
 0.0.0.0 teenagers4you.com
 0.0.0.0 teenandyou.com
 0.0.0.0 teen-bin.com
@@ -4088,13 +3879,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 tinypix.xyz
 0.0.0.0 tinypussy.ru
 0.0.0.0 titspuss.in
-0.0.0.0 tn.img.yt
-0.0.0.0 top.toplist-models.com
 0.0.0.0 topbabe.in
 0.0.0.0 topbabe.ru
 0.0.0.0 toplinks.pw
 0.0.0.0 top-lo.io.ua
-0.0.0.0 topmania.ga
 0.0.0.0 top-pics.ru
 0.0.0.0 toppics100.ru
 "0.0.0.0 topsexforum.ru	"
@@ -4130,7 +3918,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.aypillin.com
 0.0.0.0 www.candydoll.tv
 0.0.0.0 www.cdn.goldteenvideos.com
-0.0.0.0 www.cogetube.com
 0.0.0.0 www.ecko121.com
 0.0.0.0 www.faceimagen.com
 0.0.0.0 www.freetinygirls.net
@@ -4152,7 +3939,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.kchan.eu
 0.0.0.0 www.kingchan.eu
 0.0.0.0 www.lovechan.site
-0.0.0.0 www.mexicoporno.com.mx
 0.0.0.0 www.mexicoxxx.org
 0.0.0.0 www.mexxxicanas.net
 0.0.0.0 www.modelblog.org
@@ -4171,7 +3957,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.prebabe.asia
 "0.0.0.0 www.premiumchans.org	"
 0.0.0.0 www.preteennude.net
-0.0.0.0 www.sweetmodels.xyz
 0.0.0.0 www.teenagenudism.pw
 0.0.0.0 www.teenmoviesarchive.com
 0.0.0.0 www.tiny-girls.xyz
@@ -4187,7 +3972,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xdxd.ws
 0.0.0.0 xteen18.net
 0.0.0.0 x-videos.wz.sk
-"0.0.0.0 xvideoscity.com	"
 0.0.0.0 xxx5000clip.com
 0.0.0.0 xxx-archive.com
 0.0.0.0 xxxporno.top
@@ -4214,10 +3998,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 img16.rajce.idnes.cz
 0.0.0.0 www.picshare.ru
 0.0.0.0 180chan.co
-0.0.0.0 mypixs.co
 0.0.0.0 jbteen.co
-"0.0.0.0 www.new-nudism.netshopdeDiese-Woche-NEU-16	"
-"0.0.0.0 mynewmodels.compromomodelsartcentertinaindex.html?id1-A398419	"
+0.0.0.0 www.new-nudism.net
+0.0.0.0 mynewmodels.com
 "0.0.0.0 fmceja2.febu.profmcejawhindex	"
 "0.0.0.0 www.littlegirls.pw	"
 "0.0.0.0 www.toomadporn.pro?	"
@@ -4233,20 +4016,20 @@ ff02::3 ip6-allhosts
 0.0.0.0 levrek.org
 0.0.0.0 www.144chan.pk
 0.0.0.0 www.nyuu.info
-"0.0.0.0 www.hdcp.tkthumbsthumb14.jpg	"
-"0.0.0.0 www.hdcp.tkthumbsthumb16.jpg	"
-"0.0.0.0 www.hdcp.tkthumbsthumb17.jpg	"
-"0.0.0.0 www.hdcp.tkthumbsthumb19.jpg	"
-"0.0.0.0 www.hdcp.tkthumbsthumb24.jpg	"
-"0.0.0.0 www.hdcp.tkthumbsthumb23.jpg	"
-"0.0.0.0 www.hdcp.tkthumbsthumb21.jpg	"
-"0.0.0.0 www.hdcp.tkthumbsthumb22.jpg	"
-"0.0.0.0 www.hdcp.tkthumbsthumb32.jpg	"
-"0.0.0.0 www.hdcp.tkthumbsthumb36.jpg	"
-"0.0.0.0 www.hdcp.tkthumbsthumb35.jpg	"
-"0.0.0.0 www.hdcp.tkthumbsthumb46.jpg	"
-"0.0.0.0 www.hdcp.tkthumbsthumb7.jpg	"
-"0.0.0.0 www.hdcp.tkthumbsthumb11.jpg	"
+0.0.0.0 www.hdcp.tk
+0.0.0.0 www.hdcp.tk
+0.0.0.0 www.hdcp.tk
+0.0.0.0 www.hdcp.tk
+0.0.0.0 www.hdcp.tk
+0.0.0.0 www.hdcp.tk
+0.0.0.0 www.hdcp.tk
+0.0.0.0 www.hdcp.tk
+0.0.0.0 www.hdcp.tk
+0.0.0.0 www.hdcp.tk
+0.0.0.0 www.hdcp.tk
+0.0.0.0 www.hdcp.tk
+0.0.0.0 www.hdcp.tk
+0.0.0.0 www.hdcp.tk
 "0.0.0.0 teens-kitten.com	"
 0.0.0.0 jbimperial.co
 "0.0.0.0 144chan.pk	"
@@ -4295,15 +4078,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 s20.pixxxels.org
 0.0.0.0 9-teen.ru
 0.0.0.0 www.fotosamateur.net
-0.0.0.0 nudistnature.com
 0.0.0.0 45.58.52.192
 0.0.0.0 ohhentai.pw
 0.0.0.0 xxx21.xyz
-0.0.0.0 www.bestboyshardcore.com
 0.0.0.0 lizkatan.hutt.ru
 0.0.0.0 cpmadrid.es.tl
 0.0.0.0 jbcam.xyz
-0.0.0.0 www.primelovers.xyz
 0.0.0.0 r01s.imgrock.net
 0.0.0.0 thesame.tv
 0.0.0.0 rapefilms.net
@@ -4332,7 +4112,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 josequit.site
 0.0.0.0 alet.josequit.site
 0.0.0.0 freshzone.site
-0.0.0.0 videmoon.com
 0.0.0.0 dl.free.fr
 0.0.0.0 jbslinks.co
 0.0.0.0 big-boobs.ru
@@ -4363,7 +4142,6 @@ ff02::3 ip6-allhosts
 "0.0.0.0 younggirls.pw	"
 0.0.0.0 www.youngstars.pw
 0.0.0.0 firstnelly.icu
-0.0.0.0 onlyhome.xyz
 0.0.0.0 younge.pw
 0.0.0.0 secret-games.icu
 0.0.0.0 yoyogirl.site
@@ -4403,7 +4181,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sweet-tits.ru
 0.0.0.0 hostfiles17.ru
 0.0.0.0 poledancekitties.club
-0.0.0.0 14an.icu
 0.0.0.0 14an.xyz
 0.0.0.0 pinkmodel.space
 0.0.0.0 famdolls.com
@@ -4552,6 +4329,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 retrejin.site
 0.0.0.0 coolcoolsite.club
 0.0.0.0 jbcaps.to
+0.0.0.0 nn-models.review
 0.0.0.0 gtaonline.rolevoy.su
 0.0.0.0 latina-mix.vip
 0.0.0.0 pixhost.to
@@ -4570,11 +4348,11 @@ ff02::3 ip6-allhosts
 "0.0.0.0 dreamme.galik.php	"
 "0.0.0.0 ls16.pw	"
 "0.0.0.0 xxxusb.site	"
-"0.0.0.0 siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg10thumb18409.jpg	"
-"0.0.0.0 siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg8thumb16094.jpg	"
-"0.0.0.0 siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg6thumb11644.jpg	"
-"0.0.0.0 siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg6thumb11416.jpg	"
-"0.0.0.0 siperxgirls.topimg24fa8dd23140d8bcd0394534063b7cg8thumb15784.jpg	"
+0.0.0.0 siperxgirls.top
+0.0.0.0 siperxgirls.top
+0.0.0.0 siperxgirls.top
+0.0.0.0 siperxgirls.top
+0.0.0.0 siperxgirls.top
 0.0.0.0 siperxgirls.top
 0.0.0.0 155.bbbv.ru
 0.0.0.0 upload.lsforum.net
@@ -4602,7 +4380,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 solcol.xyz
 0.0.0.0 17gfporn.com
 0.0.0.0 xxgfs.com
-0.0.0.0 comelygirls.space
 0.0.0.0 yourcuties.xyz
 0.0.0.0 teensforfree.space
 0.0.0.0 teens-hub.xyz
@@ -4674,8 +4451,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mynora.net
 0.0.0.0 littleteenclub.top
 0.0.0.0 kittyland.to
-"0.0.0.0 littleteenclub.topshowthread.php?tid5page25	"
-0.0.0.0 pre-lonn.com
+"0.0.0.0 littleteenclub.topshowthread.php?tid5page25		"
 "0.0.0.0 twinktube.pro	"
 0.0.0.0 hekamde.club
 0.0.0.0 nnmodland.gr
@@ -4686,7 +4462,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cherry-teen.com
 0.0.0.0 marycont.ga
 0.0.0.0 fotub.net
-0.0.0.0 dendyteens.com
 0.0.0.0 18paradise.com
 0.0.0.0 teennude.link
 "0.0.0.0 bestnudismfiles.com	"
@@ -4697,7 +4472,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 linabest.com
 0.0.0.0 usenetmodelsindex.com
 0.0.0.0 javichuparadise.com
-0.0.0.0 girlstofap.ga
 0.0.0.0 www.paragayx.com
 0.0.0.0 tinydoll.icu
 0.0.0.0 perverse-father.topsex.cc
@@ -4748,7 +4522,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 i.shortsex.biz
 0.0.0.0 teenslutsporn.top
 0.0.0.0 fremolone.theworkpc.com
-0.0.0.0 new-teen.com
 0.0.0.0 silverps.ru
 0.0.0.0 i.quicksex.biz
 0.0.0.0 retronpage.com.ru
@@ -4784,7 +4557,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nngirlsonline.net
 0.0.0.0 naomi.kvetinas.bz
 0.0.0.0 mynewmodels.net
-0.0.0.0 youngteengals.com
 0.0.0.0 teenpornpictures.club
 0.0.0.0 sexyteenphotos.net
 0.0.0.0 ohteenporn.net
@@ -4880,13 +4652,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 rerdomer.nerdpol.ovh
 0.0.0.0 finsteta.uno
 0.0.0.0 midloten.ru
-0.0.0.0 nakeeds.com
 0.0.0.0 jpgsrc.site
 0.0.0.0 pickteen.com
 0.0.0.0 closenet.org
 0.0.0.0 hometeengfs.com
 0.0.0.0 kikiteen.com
-0.0.0.0 nonudeslists.online
 0.0.0.0 pxteen.com
 0.0.0.0 voyeurzz.com
 0.0.0.0 youngpron.pro
@@ -4917,10 +4687,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 173.214.250.41
 0.0.0.0 173.214.250.42
 0.0.0.0 youngdump.com
-0.0.0.0 pornpicsx.xyz
 0.0.0.0 cdn.tubeteenpussy.com
 0.0.0.0 teensxxxvideos.net
 0.0.0.0 littleteenclub.pw
+0.0.0.0 images
 0.0.0.0 tubexxx4k.com
 0.0.0.0 nylonandlegs.com
 0.0.0.0 img777.yt
@@ -4963,7 +4733,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 idealnude.com
 0.0.0.0 www.wetcartoonporn.com
 0.0.0.0 hentaispirit.com
-0.0.0.0 video.av4.space
 0.0.0.0 youngteen.gr
 0.0.0.0 jbmodels.gr
 0.0.0.0 zokliman.free.hr
@@ -4985,6 +4754,63 @@ ff02::3 ip6-allhosts
 0.0.0.0 paula.feburo.gr
 0.0.0.0 valentina3.feburo.gr
 0.0.0.0 valentina7.feburo.gr
+0.0.0.0 roxana2.feburo.gr
+0.0.0.0 yulia.feburo.gr
+0.0.0.0 yulia2.feburo.gr
+0.0.0.0 marina2.feburo.gr
+0.0.0.0 nadiakristina.feburo.gr
+0.0.0.0 oxana.feburo.gr
+0.0.0.0 daphne.feburo.gr
+0.0.0.0 kristina2.feburo.gr
+0.0.0.0 kristina.feburo.gr
+0.0.0.0 allnn.gr
+0.0.0.0 theblueclit.com
+0.0.0.0 teensforfree.net
+0.0.0.0 teen-wave.com
+0.0.0.0 newsmodel.com.ru
+0.0.0.0 sitesnewslol.ru
+0.0.0.0 one-pleasure.com
+0.0.0.0 dapim.al
+0.0.0.0 monkeyim.st
+0.0.0.0 viphentai.co
+0.0.0.0 img93.pixhost.to
+0.0.0.0 pixtop.al
+0.0.0.0 t91.pixhost.to
+0.0.0.0 t90.pixhost.to
+0.0.0.0 t93.pixhost.to
+0.0.0.0 t54.pixhost.to
+0.0.0.0 imgbay.al
+0.0.0.0 www.sexoguarro.com
+0.0.0.0 donpaja.com
+0.0.0.0 packsdemorritas.net
+0.0.0.0 www.byteamateur.com
+0.0.0.0 pornotweet.com
+0.0.0.0 fuckjapan.pro
+0.0.0.0 srganzo.com
+0.0.0.0 mundopacktv.com
+0.0.0.0 legioncaliente.com
+0.0.0.0 legioncaliente.xxx
+0.0.0.0 packsmega.info
+0.0.0.0 tmohentai.com
+0.0.0.0 tits.stripweb.eu
+0.0.0.0 pussy.stripweb.eu
+0.0.0.0 hqvids.stripweb.eu
+0.0.0.0 xgirlbook.es
+0.0.0.0 i.im.ge
+0.0.0.0 img92.pixhost.to
+0.0.0.0 kojer.lol
+0.0.0.0 angpinoyjakol.blogspot.com
+0.0.0.0 jbw.al
+0.0.0.0 cmsstars.al
+0.0.0.0 packsxxx.net
+0.0.0.0 v2.packscaseros.com
+0.0.0.0 packs.best
+0.0.0.0 colegialasdeverdad.com
+0.0.0.0 th1181.xyz:9388
+0.0.0.0 e.radikal.host
+0.0.0.0 sexoguarro.com
+0.0.0.0 veopornogratis.xxx
+0.0.0.0 qu.ax
 
 # End 
 
